@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Fujino.Network.Info.API</id>
+    <version>1.0.0</version>
+    <title>Fujino.Network.Info.API by Kroekchai KC(Fujino N's)</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/FujinoNs/Fujino.Network.Info.API</projectUrl>
+    <iconUrl>https://i.imgur.com/8lNgN01.png</iconUrl>
+    <description>Fujino.Network.Info.API DLL Support .Net Framework 4.5+ For show network information 
+	How to use: https://github.com/FujinoNs/Fujino.Network.Info.API
+	Discord: https://discord.com/invite/ySfm6Ud
+	Youtube: https://www.youtube.com/FujinoNs</description>
+    <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+    <copyright>Copyright © Fujino 2020-2021</copyright>
+    <tags>Fujino FujinoNs C# Package Network Info API NetworkInfo</tags>
+  </metadata>
+</package>
